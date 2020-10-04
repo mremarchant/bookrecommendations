@@ -1,9 +1,8 @@
 ## Books You didn't Know You Needed
 
-You can use the [editor on GitHub](https://github.com/d4na-ahmad/bookrecommendations/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here are some of the books I have found to be the best of their genere and must haves when it comes down to content. All books mentioned can be read by anyone who seeks an adventure and an escape from their ordinary lives. From romance to young adult, these books provide a safe haven for readers all around and make for a great escape. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+All books mentioned are by no means mandatory to be read but merely a recommendation. As a fellow booknerd, I share a passion for books that I can connect to where the characters feelings are mine and yell in furstration when they mess up (a must have for any good story).
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
