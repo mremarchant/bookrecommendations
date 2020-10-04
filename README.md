@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Books You didn't Know You Needed
 
 You can use the [editor on GitHub](https://github.com/d4na-ahmad/bookrecommendations/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Romance Recap 
+## Young Adult Must Haves
+### WattPad
 
 - Bulleted
 - List
