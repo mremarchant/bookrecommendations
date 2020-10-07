@@ -7,7 +7,7 @@ All books mentioned are by no means mandatory to be read but merely a recommenda
 
 Romance is a beautiful gift in this world. As a hopeless romantic myself, romance gives a reader an escape. To be able to feel the overwhelming emotions of love, anger, confusion, and more in a world differnet from yours is an experience. A classic example of romance would be The Fault in Our Stars. It follows the story of two teenagers lviing life to the fulest despite the cruel cancer that lives in their bodies. They learn about heartbreak, living in the moment, and finding a person's one true love. A personal favorite of mines is the Bullied series. It highlights the reality of mental disorders in a twisted fate of love between the two main characters. This series not only captures the essence true love is blind, but the effect of mental disorders such as Borderline Personality Disorder (BPD), anxiety, eating disorders, and more. It creates a reality like no other and a safe haven for readers struggling with any of these. Romance is not for everyone but I believe they haven't found the right book yet. I read a ton of books and not every book I read is good. However, romance gets the bad end of generes due to sterotypes **but** romance has a lot to offer. 
 
-
+![Iamge]. ()
 ```markdown
 Syntax highlighted code block
 
